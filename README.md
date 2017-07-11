@@ -44,3 +44,5 @@ Suite.
 businesses including computers, home theater, video editing and cabling
 
 ## Relevant Education 
+
+Las Positas College - Livermore, CA - C/C++ courses, advanced math and general education.
